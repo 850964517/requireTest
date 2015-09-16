@@ -1,0 +1,19 @@
+.test, .content {
+  border-style: solid;
+  border-left-width: 4px;
+  border-left-color: blue;
+  border-right-width: 2px;
+  border-right-color: #ccc;
+  position: left;
+}
+
+.rounded {
+  border-left-radius: 5px;
+  margin-left: 30px;
+}
+
+.content {
+  font-size: 30px;
+  color: blue;
+  float: right;
+}
